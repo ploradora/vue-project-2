@@ -1,4 +1,4 @@
-# faq-accordion-card-main
+# FAQ accordion card main
 
 ## Project setup
 ```
